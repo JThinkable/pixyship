@@ -27,7 +27,7 @@ Flask-WTF==0.14.2
 idna==2.6
 ipython==6.3.1
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 MarkupSafe==1.0
 numpy==1.13.3
